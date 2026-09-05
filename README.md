@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero_developer.jpg" width="100%" alt="Software Engineering Environment" />
+<img src="https://raw.githubusercontent.com/xCreepy/xCreepy/main/assets/hero_developer.jpg" width="100%" alt="Software Engineering Environment" />
 
 <br/><br/>
 
@@ -10,7 +10,7 @@
 
 <br/>
 
-<img src="assets/diagrams/divider.svg" width="80%" alt="Divider" />
+<img src="https://raw.githubusercontent.com/xCreepy/xCreepy/main/assets/diagrams/divider.svg" width="80%" alt="Divider" />
 
 <br/><br/>
 
@@ -19,11 +19,11 @@ Focused on clean architecture, seamless deployment pipelines, and shipping real 
 
 <br/><br/>
 
-<img src="assets/diagrams/terminal.svg" width="600px" alt="Deployment Status" />
+<img src="https://raw.githubusercontent.com/xCreepy/xCreepy/main/assets/diagrams/terminal.svg" width="600px" alt="Deployment Status" />
 
 <br/><br/>
 
-<img src="assets/diagrams/divider.svg" width="80%" alt="Divider" />
+<img src="https://raw.githubusercontent.com/xCreepy/xCreepy/main/assets/diagrams/divider.svg" width="80%" alt="Divider" />
 
 </div>
 
@@ -43,7 +43,7 @@ I am actively working on automation tooling and robust server infrastructure to 
   <tr>
     <td width="35%" valign="top">
       <a href="https://github.com/xCreepy/Discord-Online-Forever">
-        <img src="assets/project_discord.jpg" width="100%" alt="Discord Communication Tool Interface" />
+        <img src="https://raw.githubusercontent.com/xCreepy/xCreepy/main/assets/project_discord.jpg" width="100%" alt="Discord Communication Tool Interface" />
       </a>
     </td>
     <td width="65%" valign="top">
@@ -64,7 +64,7 @@ I am actively working on automation tooling and robust server infrastructure to 
   <tr>
     <td width="35%" valign="top">
       <a href="https://github.com/xCreepy/eggs">
-        <img src="assets/project_eggs.jpg" width="100%" alt="Server Management Dashboard" />
+        <img src="https://raw.githubusercontent.com/xCreepy/xCreepy/main/assets/project_eggs.jpg" width="100%" alt="Server Management Dashboard" />
       </a>
     </td>
     <td width="65%" valign="top">
@@ -82,7 +82,7 @@ I am actively working on automation tooling and robust server infrastructure to 
 <br/><br/>
 
 <div align="center">
-  <img src="assets/diagrams/divider.svg" width="80%" alt="Divider" />
+  <img src="https://raw.githubusercontent.com/xCreepy/xCreepy/main/assets/diagrams/divider.svg" width="80%" alt="Divider" />
 </div>
 
 <br/><br/>
@@ -92,36 +92,15 @@ I am actively working on automation tooling and robust server infrastructure to 
 <br/>
 
 <div align="center">
-  <img src="assets/diagrams/tech_stack.svg" width="100%" alt="Technology Stack Flow" />
+  <img src="https://raw.githubusercontent.com/xCreepy/xCreepy/main/assets/diagrams/tech_stack.svg" width="100%" alt="Technology Stack Flow" />
 </div>
 
 <br/><br/>
 
 <div align="center">
-  <img src="assets/diagrams/divider.svg" width="80%" alt="Divider" />
+  <img src="https://raw.githubusercontent.com/xCreepy/xCreepy/main/assets/diagrams/divider.svg" width="80%" alt="Divider" />
 </div>
 
-<br/><br/>
-
-### 📊 GITHUB ACTIVITY
-
-<div align="center">
-
-<a href="https://github.com/xCreepy">
-  <img src="https://github-readme-stats.vercel.app/api?username=xCreepy&show_icons=true&theme=react&bg_color=0D1117&title_color=00F0FF&icon_color=A371F7&text_color=c9d1d9&border_color=1a2332&hide_border=false" height="192px" alt="GitHub Stats"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/xCreepy">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xCreepy&layout=compact&theme=react&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9&border_color=1a2332&hide_border=false" height="192px" alt="Top Languages"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/xCreepy">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xCreepy&bg_color=0D1117&color=c9d1d9&line=00F0FF&point=A371F7&area=true&area_color=00F0FF&hide_border=false&custom_title=Contribution%20Activity&title_color=00F0FF&border_color=1a2332" width="100%" alt="Contribution Graph"/>
-</a>
-
-<br/><br/>
 <br/><br/>
 
 <p align="center">
@@ -129,5 +108,3 @@ I am actively working on automation tooling and robust server infrastructure to 
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:A371F7,100:0D1117&height=80&section=footer" width="100%" alt="footer"/>
   </a>
 </p>
-
-</div>
