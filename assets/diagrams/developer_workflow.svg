@@ -1,29 +1,38 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 100" width="100%" height="100%">
-  <rect width="800" height="100" fill="#0D1117" />
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 120" width="100%" height="100%">
+  <rect width="900" height="120" fill="#0D1117" />
   
-  <g transform="translate(40, 30)">
-    <!-- Nodes -->
-    <rect x="0" y="0" width="100" height="40" rx="4" fill="#0D1117" stroke="#F3668F" stroke-width="1" />
-    <text x="50" y="25" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#FFFFFF" text-anchor="middle">DESIGN</text>
+  <style>
+    .node { fill: #161B22; stroke: #30363D; stroke-width: 1.5; rx: 20; }
+    .node-text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; font-weight: 600; fill: #F0F6FC; }
+    .line { stroke: #30363D; stroke-width: 2; fill: none; stroke-dasharray: 4,4; }
+    .active { stroke: #F3668F; }
+    .complete { stroke: #55FF55; }
+  </style>
 
-    <line x1="100" y1="20" x2="160" y2="20" stroke="#A371F7" stroke-width="1" stroke-dasharray="2,2" />
+  <g transform="translate(60, 40)">
+    <path d="M 120 20 L 160 20" class="line active" />
+    <path d="M 280 20 L 320 20" class="line active" />
+    <path d="M 440 20 L 480 20" class="line active" />
+    <path d="M 600 20 L 640 20" class="line complete" />
 
-    <rect x="160" y="0" width="100" height="40" rx="4" fill="#0D1117" stroke="#F3668F" stroke-width="1" />
-    <text x="210" y="25" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#FFFFFF" text-anchor="middle">CODE</text>
+    <!-- Design -->
+    <rect x="0" y="0" width="120" height="40" class="node active" />
+    <text x="60" y="25" class="node-text" text-anchor="middle">DESIGN</text>
 
-    <line x1="260" y1="20" x2="320" y2="20" stroke="#A371F7" stroke-width="1" stroke-dasharray="2,2" />
+    <!-- Build -->
+    <rect x="160" y="0" width="120" height="40" class="node active" />
+    <text x="220" y="25" class="node-text" text-anchor="middle">BUILD</text>
 
-    <rect x="320" y="0" width="100" height="40" rx="4" fill="#0D1117" stroke="#F3668F" stroke-width="1" />
-    <text x="370" y="25" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#FFFFFF" text-anchor="middle">TEST</text>
+    <!-- Test -->
+    <rect x="320" y="0" width="120" height="40" class="node active" />
+    <text x="380" y="25" class="node-text" text-anchor="middle">TEST</text>
 
-    <line x1="420" y1="20" x2="480" y2="20" stroke="#A371F7" stroke-width="1" stroke-dasharray="2,2" />
+    <!-- Deploy -->
+    <rect x="480" y="0" width="120" height="40" class="node active" />
+    <text x="540" y="25" class="node-text" text-anchor="middle">DEPLOY</text>
 
-    <rect x="480" y="0" width="100" height="40" rx="4" fill="#0D1117" stroke="#A371F7" stroke-width="1" />
-    <text x="530" y="25" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#FFFFFF" text-anchor="middle">DEPLOY</text>
-
-    <line x1="580" y1="20" x2="640" y2="20" stroke="#A371F7" stroke-width="1" stroke-dasharray="2,2" />
-
-    <rect x="640" y="0" width="100" height="40" rx="4" fill="#0D1117" stroke="#55FF55" stroke-width="1" />
-    <text x="690" y="25" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#FFFFFF" text-anchor="middle">IMPROVE</text>
+    <!-- Scale -->
+    <rect x="640" y="0" width="120" height="40" class="node complete" />
+    <text x="700" y="25" class="node-text" text-anchor="middle" fill="#55FF55">SCALE</text>
   </g>
 </svg>

@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240" width="100%" height="100%">
+  <rect width="900" height="240" fill="#0D1117" />
+  
+  <style>
+    .cat { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 11px; font-weight: 700; fill: #8B949E; letter-spacing: 1.5px; }
+    .item { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; font-weight: 600; fill: #F0F6FC; }
+    .box { fill: #161B22; stroke: #30363D; stroke-width: 1; rx: 6; }
+    .box:hover { stroke: #F3668F; }
+  </style>
+
+  <!-- Languages -->
+  <text x="40" y="40" class="cat">LANGUAGES</text>
+  <g transform="translate(40, 55)">
+    <rect width="110" height="36" class="box" />
+    <text x="55" y="23" class="item" text-anchor="middle">TypeScript</text>
+  </g>
+  <g transform="translate(165, 55)">
+    <rect width="110" height="36" class="box" />
+    <text x="55" y="23" class="item" text-anchor="middle">JavaScript</text>
+  </g>
+  <g transform="translate(290, 55)">
+    <rect width="110" height="36" class="box" />
+    <text x="55" y="23" class="item" text-anchor="middle">Python</text>
+  </g>
+
+  <!-- Frontend & Backend -->
+  <text x="450" y="40" class="cat">FRAMEWORKS</text>
+  <g transform="translate(450, 55)">
+    <rect width="110" height="36" class="box" />
+    <text x="55" y="23" class="item" text-anchor="middle">React</text>
+  </g>
+  <g transform="translate(575, 55)">
+    <rect width="110" height="36" class="box" />
+    <text x="55" y="23" class="item" text-anchor="middle">Node.js</text>
+  </g>
+
+  <!-- Audio & Discord -->
+  <text x="40" y="140" class="cat">AUDIO &amp; PLATFORM</text>
+  <g transform="translate(40, 155)">
+    <rect width="110" height="36" class="box" stroke="#F3668F" stroke-width="1.5" />
+    <text x="55" y="23" class="item" text-anchor="middle" fill="#F3668F">Lavalink</text>
+  </g>
+  <g transform="translate(165, 155)">
+    <rect width="110" height="36" class="box" />
+    <text x="55" y="23" class="item" text-anchor="middle">Discord API</text>
+  </g>
+  <g transform="translate(290, 155)">
+    <rect width="110" height="36" class="box" />
+    <text x="55" y="23" class="item" text-anchor="middle">WebSockets</text>
+  </g>
+
+  <!-- Infrastructure -->
+  <text x="450" y="140" class="cat">INFRASTRUCTURE</text>
+  <g transform="translate(450, 155)">
+    <rect width="110" height="36" class="box" />
+    <text x="55" y="23" class="item" text-anchor="middle">Docker</text>
+  </g>
+  <g transform="translate(575, 155)">
+    <rect width="110" height="36" class="box" />
+    <text x="55" y="23" class="item" text-anchor="middle">Linux</text>
+  </g>
+  <g transform="translate(700, 155)">
+    <rect width="110" height="36" class="box" />
+    <text x="55" y="23" class="item" text-anchor="middle">PostgreSQL</text>
+  </g>
+
+</svg>
