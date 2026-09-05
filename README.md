@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="assets/hero.jpg" width="100%" alt="Hero Architecture" />
+<img src="assets/hero_developer.jpg" width="100%" alt="Software Engineering Environment" />
 
 <br/><br/>
 
 <h1 align="center">CREEPY</h1>
 
-**FULL-STACK ENGINEER &middot; TOOLS & AUTOMATION &middot; INFRASTRUCTURE**
+**SOFTWARE ENGINEER &middot; PRODUCT BUILDER &middot; INFRASTRUCTURE**
 
 <br/>
 
@@ -14,114 +14,98 @@
 
 <br/><br/>
 
-I build high-performance systems, automated tooling, and structured digital architectures. <br/>
-Focused on scalable backends, deployment automation, and building things that actually work.
+I design and build software products, high-performance backends, and automated infrastructure.<br/>
+Focused on clean architecture, seamless deployment pipelines, and shipping real value.
 
 <br/><br/>
 
-<img src="assets/diagrams/terminal.svg" width="600px" alt="Terminal Initialization" />
-
-<br/><br/>
-
-<img src="assets/diagrams/divider.svg" width="80%" alt="Divider" />
-
-<br/><br/>
-
-### 🟢 CURRENTLY BUILDING & INVESTIGATING
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <b>AUTOMATION & DEVOPS</b><br/>
-      Exploring seamless deployment pipelines and service persistence tools.
-    </td>
-    <td align="center" width="50%">
-      <b>GAME SERVER INFRASTRUCTURE</b><br/>
-      Developing robust configuration architectures for isolated application hosting.
-    </td>
-  </tr>
-</table>
+<img src="assets/diagrams/terminal.svg" width="600px" alt="Deployment Status" />
 
 <br/><br/>
 
 <img src="assets/diagrams/divider.svg" width="80%" alt="Divider" />
 
-<br/><br/>
+</div>
+
+<br/>
+
+### 🟢 CURRENTLY BUILDING
+
+I am actively working on automation tooling and robust server infrastructure to streamline deployment workflows and maintain persistent service connectivity.
+
+<br/>
 
 ### ⚡ FEATURED PROJECTS
 
 <br/>
 
-#### 01 / DISCORD-ONLINE-FOREVER
-<a href="https://github.com/xCreepy/Discord-Online-Forever">
-  <img src="assets/eagles_x.jpg" width="100%" alt="Network Concurrency Node" />
-</a>
-
-**Persistent Connection & Automation**
-> An automated connectivity utility designed to maintain perpetual presence on Discord. Built for robust long-term execution and persistent network state maintenance without dropping connections.
-
-**Tech:** `Automation` `Network Protocols` `Persistence` 
-[View Repository](https://github.com/xCreepy/Discord-Online-Forever)
-
-<br/><br/>
-
-#### 02 / PTERODACTYL EGGS
-<a href="https://github.com/xCreepy/eggs">
-  <img src="assets/docs.jpg" width="100%" alt="Structured Data Configurations" />
-</a>
-
-**Infrastructure-as-Code & Server Provisioning**
-> Custom service eggs for the Pterodactyl panel ecosystem. Highly structured JSON configurations that define environments, startup scripts, and dependencies for seamless deployment of isolated game and application servers.
-
-**Tech:** `JSON` `Bash` `Docker` `Infrastructure`
-[View Repository](https://github.com/xCreepy/eggs)
-
-<br/><br/>
-
-<img src="assets/diagrams/divider.svg" width="80%" alt="Divider" />
-
-<br/><br/>
-
-### ⚙️ ENGINEERING WORKFLOW
+<table>
+  <tr>
+    <td width="35%" valign="top">
+      <a href="https://github.com/xCreepy/Discord-Online-Forever">
+        <img src="assets/project_discord.jpg" width="100%" alt="Discord Communication Tool Interface" />
+      </a>
+    </td>
+    <td width="65%" valign="top">
+      <h4>DISCORD-ONLINE-FOREVER</h4>
+      <p>An automated connectivity utility designed to maintain perpetual presence on Discord without dropping connections.</p>
+      <p><b>Tech:</b> <code>Automation</code> &middot; <code>Network Protocols</code> &middot; <code>Persistence</code></p>
+      <p><b>Status:</b> 🟢 Active</p>
+      <p>
+        <a href="https://github.com/xCreepy/Discord-Online-Forever">View Repository</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<img src="assets/diagrams/engineering_workflow.svg" width="100%" alt="Engineering Workflow Diagram" />
-
-<br/><br/>
-
-<img src="assets/diagrams/divider.svg" width="80%" alt="Divider" />
-
-<br/><br/>
-
-### 🧬 TECHNOLOGY DNA
-
 <table>
   <tr>
-    <td align="right"><b>LANGUAGES</b></td>
-    <td><code>JavaScript</code> <code>TypeScript</code> <code>Python</code> <code>Go</code></td>
-  </tr>
-  <tr>
-    <td align="right"><b>FRONTEND & BACKEND</b></td>
-    <td><code>React</code> <code>Next.js</code> <code>Node.js</code></td>
-  </tr>
-  <tr>
-    <td align="right"><b>INFRASTRUCTURE</b></td>
-    <td><code>Docker</code> <code>Linux</code> <code>PostgreSQL</code></td>
-  </tr>
-  <tr>
-    <td align="right"><b>AUTOMATION</b></td>
-    <td><code>Scripting</code> <code>CI/CD Pipelines</code></td>
+    <td width="35%" valign="top">
+      <a href="https://github.com/xCreepy/eggs">
+        <img src="assets/project_eggs.jpg" width="100%" alt="Server Management Dashboard" />
+      </a>
+    </td>
+    <td width="65%" valign="top">
+      <h4>PTERODACTYL EGGS</h4>
+      <p>Custom infrastructure-as-code configurations defining environments and dependencies for isolated application servers.</p>
+      <p><b>Tech:</b> <code>JSON</code> &middot; <code>Bash</code> &middot; <code>Docker</code> &middot; <code>Infrastructure</code></p>
+      <p><b>Status:</b> 🟢 Active</p>
+      <p>
+        <a href="https://github.com/xCreepy/eggs">View Repository</a>
+      </p>
+    </td>
   </tr>
 </table>
 
 <br/><br/>
 
-<img src="assets/diagrams/divider.svg" width="80%" alt="Divider" />
+<div align="center">
+  <img src="assets/diagrams/divider.svg" width="80%" alt="Divider" />
+</div>
 
 <br/><br/>
 
-### 📊 SYSTEM TELEMETRY
+### 🧬 DEVELOPER STACK
+
+<br/>
+
+<div align="center">
+  <img src="assets/diagrams/tech_stack.svg" width="100%" alt="Technology Stack Flow" />
+</div>
+
+<br/><br/>
+
+<div align="center">
+  <img src="assets/diagrams/divider.svg" width="80%" alt="Divider" />
+</div>
+
+<br/><br/>
+
+### 📊 GITHUB ACTIVITY
+
+<div align="center">
 
 <a href="https://github.com/xCreepy">
   <img src="https://github-readme-stats.vercel.app/api?username=xCreepy&show_icons=true&theme=react&bg_color=0D1117&title_color=00F0FF&icon_color=A371F7&text_color=c9d1d9&border_color=1a2332&hide_border=false" height="192px" alt="GitHub Stats"/>
@@ -142,7 +126,7 @@ Focused on scalable backends, deployment automation, and building things that ac
 
 <p align="center">
   <a href="https://github.com/xCreepy">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:A371F7,100:0D1117&height=120&section=footer" width="100%" alt="footer"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:A371F7,100:0D1117&height=80&section=footer" width="100%" alt="footer"/>
   </a>
 </p>
 
