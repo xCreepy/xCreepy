@@ -1,21 +1,23 @@
 <div align="center">
 
 <!-- BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27,29,33&height=220&section=header&text=ＣＲＥＥＰＹ&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=code+first.+ship+second.+figure+the+rest+out+later.&descAlignY=62&descSize=16&descColor=ff6ec7" width="100%" alt="CREEPY"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0d2538,100:00F0FF&height=220&section=header&text=ＣＲＥＥＰＹ&fontSize=80&fontColor=00F0FF&animation=fadeIn&fontAlignY=38&desc=code+first.+ship+second.+figure+the+rest+out+later.&descAlignY=62&descSize=16&descColor=A371F7" width="100%" alt="CREEPY"/>
 
 <br/>
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=FF6EC7&center=true&vCenter=true&width=540&lines=Full-Stack+Developer;JavaScript+%2F+TypeScript+%2F+Python;Building+things+that+actually+work;Learning+fast.+Shipping+faster.;React+%7C+Next.js+%7C+Node+%7C+Docker;Game+Tools+%7C+Automation+%7C+DevOps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=540&lines=Full-Stack+Developer;JavaScript+%2F+TypeScript+%2F+Python;Building+things+that+actually+work;Learning+fast.+Shipping+faster.;React+%7C+Next.js+%7C+Node+%7C+Docker;Game+Tools+%7C+Automation+%7C+DevOps)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- VISITOR COUNTER -->
-![Profile Views](https://komarev.com/ghpvc/?username=xCreepy&style=for-the-badge&color=ff6ec7&label=PROFILE+VIEWS)
+<!-- STATUS & COUNTERS -->
+![Online](https://img.shields.io/badge/STATUS-ONLINE-55FF55?style=for-the-badge&labelColor=0d1117)
 &nbsp;
-![GitHub followers](https://img.shields.io/github/followers/xCreepy?style=for-the-badge&color=ff6ec7&labelColor=0d1117&label=FOLLOWERS)
+![Profile Views](https://komarev.com/ghpvc/?username=xCreepy&style=for-the-badge&color=00F0FF&label=PROFILE+VIEWS)
 &nbsp;
-![GitHub User's stars](https://img.shields.io/github/stars/xCreepy?style=for-the-badge&color=ff6ec7&labelColor=0d1117&label=TOTAL+STARS)
+![GitHub followers](https://img.shields.io/github/followers/xCreepy?style=for-the-badge&color=00F0FF&labelColor=0d1117&label=FOLLOWERS)
+&nbsp;
+![GitHub User's stars](https://img.shields.io/github/stars/xCreepy?style=for-the-badge&color=00F0FF&labelColor=0d1117&label=TOTAL+STARS)
 
 </div>
 
@@ -90,11 +92,10 @@ That's the only philosophy that's ever actually worked.
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
@@ -102,43 +103,21 @@ That's the only philosophy that's ever actually worked.
 
 ---
 
-## 🔨 &nbsp;Currently Building
-
-```bash
-$ ls -la ./active-projects
-
-▸  personal-portfolio/    →  React + Next.js · Full custom design · No templates
-▸  backend-api/           →  Learning REST architecture, auth, and database design
-▸  minecraft-tooling/     →  Game server automation & Pterodactyl infrastructure
-▸  private-projects/      →  Large backlog of private work — polishing & releasing publicly
-▸  open-source-contrib/   →  Finding issues worth fixing and actually fixing them
-
-$ echo "Private repo count: classified. Public drops: incoming."
-```
-
-<br/>
-
----
-
-## 🧠 &nbsp;How I Think
+## 📊 &nbsp;GitHub Analytics
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                 │
-│   "Ship something broken, then fix it —                        │
-│    that's how you learn what 'fixed' actually means."          │
-│                                                                 │
-│   "The best stack is the one you can debug at 2am."            │
-│                                                                 │
-│   "Every senior dev was once confused by the same things       │
-│    you're confused by right now."                              │
-│                                                                 │
-│   "Consistency beats talent when talent isn't consistent."     │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
+<a href="https://github.com/xCreepy">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xCreepy&show_icons=true&theme=react&bg_color=0D1117&title_color=00F0FF&icon_color=A371F7&text_color=c9d1d9&border_color=1a2332&hide_border=false&count_private=true" alt="xCreepy's GitHub Stats"/>
+  &nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xCreepy&layout=compact&theme=react&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9&border_color=1a2332&hide_border=false&langs_count=8" alt="Top Languages"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/xCreepy">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xCreepy&theme=react&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF&sideLabels=A371F7&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=555555&border=1a2332" alt="GitHub Streak"/>
+</a>
 
 </div>
 
@@ -146,114 +125,13 @@ $ echo "Private repo count: classified. Public drops: incoming."
 
 ---
 
-## 💡 &nbsp;What I Care About
-
-<table width="100%">
-  <tr>
-    <td width="30%"><b>🌐 &nbsp;Web that performs</b></td>
-    <td>Clean UI, fast loads, real UX. Not just something that looks good in a screenshot.</td>
-  </tr>
-  <tr>
-    <td><b>🎮 &nbsp;Game infrastructure</b></td>
-    <td>Minecraft servers, custom tooling, mods, and the systems that keep games running.</td>
-  </tr>
-  <tr>
-    <td><b>🐳 &nbsp;DevOps done right</b></td>
-    <td>Docker, deployments, environments that don't break when you look at them wrong.</td>
-  </tr>
-  <tr>
-    <td><b>🔧 &nbsp;Tools over buzzwords</b></td>
-    <td>If it saves time, automates something tedious, or makes code clearer — I'll build it.</td>
-  </tr>
-  <tr>
-    <td><b>📖 &nbsp;Learning in public</b></td>
-    <td>Every project I push is documented. Every mistake is logged. Progress over perfection.</td>
-  </tr>
-</table>
-
-<br/>
-
----
-
-## 🎯 &nbsp;Expertise Level
+## 📈 &nbsp;Contribution Graph
 
 <div align="center">
 
-| Skill | Level |
-|-------|-------|
-| ![JS](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ████████░░ |
-| ![TS](https://img.shields.io/badge/TypeScript-Intermediate-3178C6?style=flat-square&logo=typescript&logoColor=white) | ██████░░░░ |
-| ![React](https://img.shields.io/badge/React-Intermediate-61DAFB?style=flat-square&logo=react&logoColor=black) | ██████░░░░ |
-| ![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat-square&logo=python&logoColor=white) | ██████░░░░ |
-| ![Node](https://img.shields.io/badge/Node.js-Intermediate-339933?style=flat-square&logo=nodedotjs&logoColor=white) | █████░░░░░ |
-| ![Docker](https://img.shields.io/badge/Docker-Learning-2496ED?style=flat-square&logo=docker&logoColor=white) | ████░░░░░░ |
-| ![Java](https://img.shields.io/badge/Java-Intermediate-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | █████░░░░░ |
-| ![CS](https://img.shields.io/badge/C%23-Intermediate-239120?style=flat-square&logo=dotnet&logoColor=white) | █████░░░░░ |
-| ![Lua](https://img.shields.io/badge/Lua-Advanced-2C2D72?style=flat-square&logo=lua&logoColor=white) | ███████░░░ |
-
-</div>
-
-<br/>
-
----
-
-## 📊 &nbsp;Stats
-
-<div align="center">
-
-<img width="68%" src="https://streak-stats.demolab.com/?user=xCreepy&hide_border=true&background=0d1117&stroke=ff6ec7&ring=ff6ec7&fire=ff6b6b&currStreakLabel=ff6ec7&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e"/>
-
-</div>
-
-<br/>
-
----
-
-## 🐍 &nbsp;Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xCreepy/xCreepy/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xCreepy/xCreepy/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/xCreepy/xCreepy/output/github-contribution-grid-snake-dark.svg">
-</picture>
-
-<br/>
-<sub><i>🐍 Snake eats your contributions · auto-generates daily via GitHub Actions</i></sub>
-
-</div>
-
-<br/>
-
----
-
-## 🚀 &nbsp;Projects
-
-| &nbsp; | Project | What it is | Stack |
-|--------|---------|------------|-------|
-| 🔗 | [**Discord-Online-Forever**](https://github.com/xCreepy/Discord-Online-Forever) | Keeps your Discord status permanently online — zero-effort automation tool | `JavaScript` |
-| 🔗 | [**eggs**](https://github.com/xCreepy/eggs) | Pterodactyl panel service eggs for deploying and managing game servers | `Lua` |
-| 🔜 | **Portfolio** *(in progress)* | Full personal portfolio — custom-built from scratch, no templates, every pixel intentional | `React · Next.js · TypeScript` |
-| 🔒 | **Private projects** *(dropping soon)* | Years of private work being cleaned up, documented, and released publicly — stay tuned | `Various` |
-
-> 💡 **Note:** I've been coding since 2017 with most work living in private repos. I'm actively enhancing and open-sourcing them — watch this space.
-
-<br/>
-
----
-
-## 📬 &nbsp;Find Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-%40xCreepy-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xCreepy)
-[![Portfolio](https://img.shields.io/badge/Portfolio-launching_soon-ff6ec7?style=for-the-badge&logo=vercel&logoColor=white)](#)
-
-<br/>
-
-*I'm open to collabs, open-source contributions, and interesting problems.*  
-*If you're building something real — let's talk.*
+<a href="https://github.com/xCreepy">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xCreepy&bg_color=0D1117&color=c9d1d9&line=00F0FF&point=A371F7&area=true&area_color=00F0FF&hide_border=false&custom_title=Contribution%20Activity&title_color=00F0FF&border_color=1a2332" width="95%" alt="Contribution Graph"/>
+</a>
 
 </div>
 
@@ -263,12 +141,7 @@ $ echo "Private repo count: classified. Public drops: incoming."
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27,29,33&height=120&section=footer" width="100%" alt="footer"/>
-
-<sub>
-  <b>CREEPY</b> &nbsp;·&nbsp; xCreepy on GitHub &nbsp;·&nbsp; Building publicly since 2017
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=xCreepy&style=flat-square&color=ff6ec7&label=visitors+since+launch"/>
-</sub>
+<!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:0d2538,100:0D1117&height=120&section=footer" width="100%" alt="footer"/>
 
 </div>
