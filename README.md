@@ -92,11 +92,48 @@ Managed Lavalink hosting platform for Discord music bots. Providing the scalable
 
 ### ⚡ FEATURED WORK
 
-- **[Discord-Online-Forever](https://github.com/xCreepy/Discord-Online-Forever)**  
-  Keep your Discord profile online forever. A persistent connection utility ensuring uninterrupted presence.
+<br/>
 
-- **[Pterodactyl Eggs](https://github.com/xCreepy/eggs)**  
-  Service configurations and infrastructure-as-code definitions for deploying isolated applications on the Pterodactyl panel.
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://musiva.app/">
+        <img src="https://raw.githubusercontent.com/xCreepy/xCreepy/main/assets/musiva_product.jpg" width="100%" alt="Musiva" style="border-radius:8px;" />
+      </a>
+      <br/><br/>
+      <h4><a href="https://musiva.app/" style="color:#F0F6FC; text-decoration:none;">Musiva</a></h4>
+      <p style="font-size:14px; color:#8B949E;">A premium Discord music platform delivering high-quality audio experiences and seamless playback control within servers.</p>
+      <p style="font-size:13px;">🟢 Active &nbsp;&middot;&nbsp; <a href="https://musiva.app/">Visit Platform</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://lava.musiva.app/">
+        <img src="https://raw.githubusercontent.com/xCreepy/xCreepy/main/assets/lavamusiva_product.jpg" width="100%" alt="LavaMusiva" style="border-radius:8px;" />
+      </a>
+      <br/><br/>
+      <h4><a href="https://lava.musiva.app/" style="color:#F0F6FC; text-decoration:none;">LavaMusiva</a></h4>
+      <p style="font-size:14px; color:#8B949E;">Managed Lavalink hosting platform providing scalable audio processing nodes and backend infrastructure.</p>
+      <p style="font-size:13px;">🟢 Live &nbsp;&middot;&nbsp; <a href="https://lava.musiva.app/">View Infrastructure</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <br/>
+      <img src="https://raw.githubusercontent.com/xCreepy/xCreepy/main/assets/project_mc_client.jpg" width="100%" alt="Minecraft Client" style="border-radius:8px;" />
+      <br/><br/>
+      <h4 style="color:#F0F6FC;">Minecraft Client</h4>
+      <p style="font-size:14px; color:#8B949E;">A new Minecraft client currently in development, focused on building a polished and modern client experience.</p>
+      <p style="font-size:13px;"><span style="color:#55FF55;">● COMING SOON</span></p>
+    </td>
+    <td width="50%" valign="top">
+      <br/>
+      <img src="https://raw.githubusercontent.com/xCreepy/xCreepy/main/assets/project_ptero_theme.jpg" width="100%" alt="Pterodactyl Theme" style="border-radius:8px;" />
+      <br/><br/>
+      <h4 style="color:#F0F6FC;">Pterodactyl Theme</h4>
+      <p style="font-size:14px; color:#8B949E;">A custom Pterodactyl panel theme designed around a cleaner, more modern hosting experience.</p>
+      <p style="font-size:13px;"><span style="color:#55FF55;">● COMING SOON</span></p>
+    </td>
+  </tr>
+</table>
 
 <br/><br/>
 
