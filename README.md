@@ -175,11 +175,21 @@ $ echo "Private repo count: classified. Public drops: incoming."
 
 ---
 
-## 🏆 &nbsp;Trophies
+## 🎯 &nbsp;Expertise Level
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=xCreepy&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+| Skill | Level |
+|-------|-------|
+| ![JS](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ████████░░ |
+| ![TS](https://img.shields.io/badge/TypeScript-Intermediate-3178C6?style=flat-square&logo=typescript&logoColor=white) | ██████░░░░ |
+| ![React](https://img.shields.io/badge/React-Intermediate-61DAFB?style=flat-square&logo=react&logoColor=black) | ██████░░░░ |
+| ![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat-square&logo=python&logoColor=white) | ██████░░░░ |
+| ![Node](https://img.shields.io/badge/Node.js-Intermediate-339933?style=flat-square&logo=nodedotjs&logoColor=white) | █████░░░░░ |
+| ![Docker](https://img.shields.io/badge/Docker-Learning-2496ED?style=flat-square&logo=docker&logoColor=white) | ████░░░░░░ |
+| ![Java](https://img.shields.io/badge/Java-Intermediate-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | █████░░░░░ |
+| ![CS](https://img.shields.io/badge/C%23-Intermediate-239120?style=flat-square&logo=dotnet&logoColor=white) | █████░░░░░ |
+| ![Lua](https://img.shields.io/badge/Lua-Advanced-2C2D72?style=flat-square&logo=lua&logoColor=white) | ███████░░░ |
 
 </div>
 
@@ -191,15 +201,15 @@ $ echo "Private repo count: classified. Public drops: incoming."
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=xCreepy&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=9d4edd&icon_color=9d4edd&text_color=c9d1d9"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=xCreepy&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=9d4edd&icon_color=9d4edd&text_color=c9d1d9&cache_seconds=1800"/>
 &nbsp;
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xCreepy&layout=compact&hide_border=true&bg_color=0d1117&title_color=9d4edd&text_color=c9d1d9&langs_count=8"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xCreepy&layout=compact&hide_border=true&bg_color=0d1117&title_color=9d4edd&text_color=c9d1d9&langs_count=8&cache_seconds=1800"/>
 
 </div>
 
 <div align="center">
 
-<img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=xCreepy&hide_border=true&background=0d1117&stroke=9d4edd&ring=9d4edd&fire=ff6b6b&currStreakLabel=9d4edd&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e"/>
+<img width="68%" src="https://streak-stats.demolab.com/?user=xCreepy&hide_border=true&background=0d1117&stroke=9d4edd&ring=9d4edd&fire=ff6b6b&currStreakLabel=9d4edd&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e"/>
 
 </div>
 
@@ -211,7 +221,9 @@ $ echo "Private repo count: classified. Public drops: incoming."
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=xCreepy&bg_color=0d1117&color=9d4edd&line=9d4edd&point=ffffff&area=true&area_color=9d4edd&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=xCreepy&bg_color=0d1117&color=9d4edd&line=9d4edd&point=c9d1d9&area=true&hide_border=true&radius=8)](https://github.com/xCreepy)
+
+<sub><i>📅 Contribution activity · updated daily</i></sub>
 
 </div>
 
@@ -257,7 +269,7 @@ $ echo "Private repo count: classified. Public drops: incoming."
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
