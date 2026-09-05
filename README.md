@@ -1,21 +1,21 @@
 <div align="center">
 
 <!-- BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=220&section=header&text=ＣＲＥＥＰＹ&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=code+first.+ship+second.+figure+the+rest+out+later.&descAlignY=62&descSize=16&descColor=9d4edd" width="100%" alt="CREEPY"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27,29,33&height=220&section=header&text=ＣＲＥＥＰＹ&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=code+first.+ship+second.+figure+the+rest+out+later.&descAlignY=62&descSize=16&descColor=ff6ec7" width="100%" alt="CREEPY"/>
 
 <br/>
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=9D4EDD&center=true&vCenter=true&width=540&lines=Full-Stack+Developer;JavaScript+%2F+TypeScript+%2F+Python;Building+things+that+actually+work;Learning+fast.+Shipping+faster.;React+%7C+Next.js+%7C+Node+%7C+Docker;Game+Tools+%7C+Automation+%7C+DevOps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=FF6EC7&center=true&vCenter=true&width=540&lines=Full-Stack+Developer;JavaScript+%2F+TypeScript+%2F+Python;Building+things+that+actually+work;Learning+fast.+Shipping+faster.;React+%7C+Next.js+%7C+Node+%7C+Docker;Game+Tools+%7C+Automation+%7C+DevOps)](https://git.io/typing-svg)
 
 <br/>
 
 <!-- VISITOR COUNTER -->
-![Profile Views](https://komarev.com/ghpvc/?username=xCreepy&style=for-the-badge&color=9d4edd&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=xCreepy&style=for-the-badge&color=ff6ec7&label=PROFILE+VIEWS)
 &nbsp;
-![GitHub followers](https://img.shields.io/github/followers/xCreepy?style=for-the-badge&color=9d4edd&labelColor=0d1117&label=FOLLOWERS)
+![GitHub followers](https://img.shields.io/github/followers/xCreepy?style=for-the-badge&color=ff6ec7&labelColor=0d1117&label=FOLLOWERS)
 &nbsp;
-![GitHub User's stars](https://img.shields.io/github/stars/xCreepy?style=for-the-badge&color=9d4edd&labelColor=0d1117&label=TOTAL+STARS)
+![GitHub User's stars](https://img.shields.io/github/stars/xCreepy?style=for-the-badge&color=ff6ec7&labelColor=0d1117&label=TOTAL+STARS)
 
 </div>
 
@@ -201,29 +201,7 @@ $ echo "Private repo count: classified. Public drops: incoming."
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=xCreepy&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=9d4edd&icon_color=9d4edd&text_color=c9d1d9&cache_seconds=1800"/>
-&nbsp;
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xCreepy&layout=compact&hide_border=true&bg_color=0d1117&title_color=9d4edd&text_color=c9d1d9&langs_count=8&cache_seconds=1800"/>
-
-</div>
-
-<div align="center">
-
-<img width="68%" src="https://streak-stats.demolab.com/?user=xCreepy&hide_border=true&background=0d1117&stroke=9d4edd&ring=9d4edd&fire=ff6b6b&currStreakLabel=9d4edd&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e"/>
-
-</div>
-
-<br/>
-
----
-
-## 📈 &nbsp;Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=xCreepy&bg_color=0d1117&color=9d4edd&line=9d4edd&point=c9d1d9&area=true&hide_border=true&radius=8)](https://github.com/xCreepy)
-
-<sub><i>📅 Contribution activity · updated daily</i></sub>
+<img width="68%" src="https://streak-stats.demolab.com/?user=xCreepy&hide_border=true&background=0d1117&stroke=ff6ec7&ring=ff6ec7&fire=ff6b6b&currStreakLabel=ff6ec7&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e"/>
 
 </div>
 
@@ -242,7 +220,7 @@ $ echo "Private repo count: classified. Public drops: incoming."
 </picture>
 
 <br/>
-<sub><i>Snake animation auto-generates daily via GitHub Actions · Setup instructions below ↓</i></sub>
+<sub><i>🐍 Snake eats your contributions · auto-generates daily via GitHub Actions</i></sub>
 
 </div>
 
@@ -265,24 +243,12 @@ $ echo "Private repo count: classified. Public drops: incoming."
 
 ---
 
-## 💬 &nbsp;Random Dev Quote
-
-<div align="center">
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
-
-<br/>
-
----
-
 ## 📬 &nbsp;Find Me
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-%40xCreepy-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xCreepy)
-[![Portfolio](https://img.shields.io/badge/Portfolio-launching_soon-9d4edd?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-launching_soon-ff6ec7?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
 <br/>
 
@@ -297,12 +263,12 @@ $ echo "Private repo count: classified. Public drops: incoming."
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=120&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27,29,33&height=120&section=footer" width="100%" alt="footer"/>
 
 <sub>
   <b>CREEPY</b> &nbsp;·&nbsp; xCreepy on GitHub &nbsp;·&nbsp; Building publicly since 2017
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=xCreepy&style=flat-square&color=9d4edd&label=visitors+since+launch"/>
+  <img src="https://komarev.com/ghpvc/?username=xCreepy&style=flat-square&color=ff6ec7&label=visitors+since+launch"/>
 </sub>
 
 </div>
