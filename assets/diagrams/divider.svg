@@ -2,11 +2,11 @@
   <defs>
     <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#0D1117" />
-      <stop offset="25%" stop-color="#00F0FF" />
+      <stop offset="25%" stop-color="#F3668F" />
       <stop offset="50%" stop-color="#A371F7" />
-      <stop offset="75%" stop-color="#00F0FF" />
+      <stop offset="75%" stop-color="#F3668F" />
       <stop offset="100%" stop-color="#0D1117" />
     </linearGradient>
   </defs>
-  <rect x="0" y="9" width="1000" height="2" fill="url(#grad)" opacity="0.6" />
+  <rect x="0" y="9" width="1000" height="1" fill="url(#grad)" opacity="0.8" />
 </svg>

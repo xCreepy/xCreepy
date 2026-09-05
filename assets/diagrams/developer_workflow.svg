@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 100" width="100%" height="100%">
+  <rect width="800" height="100" fill="#0D1117" />
+  
+  <g transform="translate(40, 30)">
+    <!-- Nodes -->
+    <rect x="0" y="0" width="100" height="40" rx="4" fill="#0D1117" stroke="#F3668F" stroke-width="1" />
+    <text x="50" y="25" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#FFFFFF" text-anchor="middle">DESIGN</text>
+
+    <line x1="100" y1="20" x2="160" y2="20" stroke="#A371F7" stroke-width="1" stroke-dasharray="2,2" />
+
+    <rect x="160" y="0" width="100" height="40" rx="4" fill="#0D1117" stroke="#F3668F" stroke-width="1" />
+    <text x="210" y="25" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#FFFFFF" text-anchor="middle">CODE</text>
+
+    <line x1="260" y1="20" x2="320" y2="20" stroke="#A371F7" stroke-width="1" stroke-dasharray="2,2" />
+
+    <rect x="320" y="0" width="100" height="40" rx="4" fill="#0D1117" stroke="#F3668F" stroke-width="1" />
+    <text x="370" y="25" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#FFFFFF" text-anchor="middle">TEST</text>
+
+    <line x1="420" y1="20" x2="480" y2="20" stroke="#A371F7" stroke-width="1" stroke-dasharray="2,2" />
+
+    <rect x="480" y="0" width="100" height="40" rx="4" fill="#0D1117" stroke="#A371F7" stroke-width="1" />
+    <text x="530" y="25" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#FFFFFF" text-anchor="middle">DEPLOY</text>
+
+    <line x1="580" y1="20" x2="640" y2="20" stroke="#A371F7" stroke-width="1" stroke-dasharray="2,2" />
+
+    <rect x="640" y="0" width="100" height="40" rx="4" fill="#0D1117" stroke="#55FF55" stroke-width="1" />
+    <text x="690" y="25" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#FFFFFF" text-anchor="middle">IMPROVE</text>
+  </g>
+</svg>
